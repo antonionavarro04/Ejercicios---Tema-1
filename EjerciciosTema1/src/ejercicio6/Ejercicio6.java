@@ -1,6 +1,6 @@
 package ejercicio6;
 
-//Importamos la libreria Scanner y Locale
+// Importamos la libreria Scanner y Locale
 import java.util.Scanner;
 import java.util.Locale;
 
