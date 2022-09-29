@@ -1,8 +1,8 @@
 package ejercicio4;
 
-import java.util.Locale;
 // Importamos la libreria Scanner y Locale
 import java.util.Scanner;
+import java.util.Locale;
 
 public class Ejercicio4 {
 
