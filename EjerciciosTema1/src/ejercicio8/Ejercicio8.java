@@ -29,6 +29,8 @@ public class Ejercicio8 {
 		System.out.print("Cuantas entradas Infantiles se han vendido?: ");
 		entradasInfantiles = read.nextShort();
 		
+		
+		
 		// Cerramos el Scanner
 		read.close();
 
