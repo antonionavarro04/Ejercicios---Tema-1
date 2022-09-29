@@ -8,7 +8,7 @@ public class Ejercicio3 {
 	public static void main(String[] args) {
 		
 		// Declaramos la variable num la cual va a almacenar lo que introduzca el usuario asi como la variable resultado
-		// la cual valdra para determinar si hay o no que restarle a 7 el resto de la division
+		// la cual valdra para determinar si hay o no que restarle a 7 el resto de la division.
 		long num, num2, resultado;
 		
 		// Creamos el Scanner en la variables read y le asignamos la localización a la de US
