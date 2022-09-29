@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Ejercicio4 {
 
 	public static void main(String[] args) {
-		// Creamos las variables que van a almacenar la base y la altura, asi como el area total del Triangulo
+		// Creamos las variables que van a almacenar la base y la altura, asi como el area total del Triangulo.
 		double base, altura, resultado;
 		
 		// Creamos nuestro nuevo Scanner en la variable read y lo configuramos para que use Locale.US
