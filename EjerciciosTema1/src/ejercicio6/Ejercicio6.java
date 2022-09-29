@@ -17,7 +17,7 @@ public class Ejercicio6 {
 		read.useLocale(Locale.US);
 		
 		// Pedimos al usuario que nos introduzca un numero de segundos
-		System.out.print("Introduce un numero de segundos (9,223,372,036,854,775,807 como máximo): ");
+		System.out.print("Introduce un numero de segundos: ");
 		segundos = read.nextLong();
 		
 		// Compiamos el valor de segundos a segundosOriginales para poder imprimirlos mas tarde
