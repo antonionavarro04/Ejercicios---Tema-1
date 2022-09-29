@@ -10,7 +10,7 @@ public class Ejercicio1 {
 		// Declaramos la variable para el numero a redondear, al ser un numero con decimales va a ser double o float..
 		double num;
 		
-		// Creamos la variable para poder utilizar el Scanner y cambiamos su formato al Formato US
+		// Creamos el Scanner en la variables read y asignamos el formato US
 		final Scanner read = new Scanner(System.in);
 		read.useLocale(Locale.US);
 		

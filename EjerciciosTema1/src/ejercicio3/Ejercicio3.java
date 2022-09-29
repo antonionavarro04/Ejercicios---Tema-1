@@ -17,7 +17,7 @@ public class Ejercicio3 {
 		// La variable resultado nos va a servir para guardar el resultado del operador ternario 
 		long resultado;
 		
-		// Creamos el Scanner en la variables read y le asignamos la localización a la de US
+		// Creamos el Scanner en la variables read y asignamos el formato US
 		final Scanner read = new Scanner(System.in);
 		read.useLocale(Locale.US);
 		
