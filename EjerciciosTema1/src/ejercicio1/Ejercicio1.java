@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		// Declaramos el numero a redondear, al ser un numero con decimales va a ser double o float.
+		// Declaramos el numero a redondear, al ser un numero con decimales va a ser double o float..
 		double num;
 		
 		// Creamos la variable para poder utilizar el Scanner y cambiamos su formato al Formato US
