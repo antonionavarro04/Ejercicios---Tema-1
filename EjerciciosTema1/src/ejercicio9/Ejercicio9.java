@@ -31,6 +31,8 @@ public class Ejercicio9 {
 		// Imprimimos el resultado final
 		System.out.println("Son iguales los numeros: " + equal);
 		
+		// Cerramos el Scanner
+		read.close();
 	}
 
 }
