@@ -39,14 +39,14 @@ public class Ejercicio8 {
 		// Usamos un operador ternario para determinar si el descuento va a ser aplicado o no
 		precioDescontado = precioTotal >= 100 ? precioTotal * DESCUENTO : precioTotal;
 		
-		// Usamos otro operador Ternario para para hacer que la variable boolean sea true en caso de que se haya aplicado el descuento
+		// Usamos otro operador Ternario para para hacer que la variable msg tome un mensaje el cual diga si el descuento fue aplicado o no
 		msg = precioTotal >= 100 ? "El descuento fue aplicado" : "El descuento no fue aplicado";
 		
 		System.out.println();System.out.println("---------------------------------------");System.out.println();
 		
 		// Imprimimos el resultado final
 		System.out.println("El precio final es de: " + precioDescontado + "€");
-		System.out.println(msg + ". El precio sin descontar es de: " + precioTotal + "€");
+		System.out.println(msg);
 		
 		// Cerramos el Scanner
 		read.close();
